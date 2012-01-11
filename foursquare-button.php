@@ -205,8 +205,8 @@ if ( ! function_exists('_4sq_button'))
 		/**
 		 * This plugin its supposed to work only on single posts
 		 */
-		if ( ! is_single())
-			return;
+		// if ( ! is_single())
+		// 	return;
 	
 
 		/**
